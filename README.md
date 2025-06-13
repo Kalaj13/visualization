@@ -1,6 +1,6 @@
 # LiDAR Path and Obstacle Visualizer
 
-This Python appplication visualizes a car's path and the surrounding environment using LiDAR sensor data. It reads a CSV log file containing LiDAR readings, position, and orientation data, and produces a 2D top-down map showing the car’s movement and perceived obstacles.
+This Python application visualizes a car's path and the surrounding environment using LiDAR sensor data. It reads a CSV log file containing LiDAR readings, position, and orientation data, and produces a 2D top-down map showing the car’s movement and perceived obstacles.
 
 ---
 
