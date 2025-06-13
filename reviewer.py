@@ -14,7 +14,7 @@ except ImportError:
 # ============================== SETTINGS ==============================
 
 OLLAMA_MODEL = "gemma3:1b"
-OLLAMA_URL = "http://localhost:11434/api/chat"
+OLLAMA_URL = "http://127.0.0.1:11434/api/chat"
 
 ALLOWED_EXTENSIONS = {
     ".py", ".cpp", ".h", ".hpp", ".c", ".java", ".js", ".ts", ".cs", ".go"
